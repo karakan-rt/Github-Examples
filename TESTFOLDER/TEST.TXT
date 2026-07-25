@@ -1,5 +1,0 @@
-## MARKDWON EXAMPLES
-
--heading-
-uorderlist
-- text-
